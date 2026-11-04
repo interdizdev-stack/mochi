@@ -1,0 +1,1 @@
+﻿window.MOCHI_ASSETS = {"gift-box":{"height":1254,"width":1254},"hero":{"height":1254,"width":1254},"strawberry":{"height":1254,"width":1254},"pistachio":{"height":1254,"width":1254},"blueberry":{"height":1254,"width":1254},"mango":{"height":1254,"width":1254},"mascots":{"height":887,"width":1774},"chocolate":{"height":1254,"width":1254},"coconut":{"height":1254,"width":1254}};
